@@ -6,7 +6,7 @@ class HomeText extends Component {
     return (
       <div className="HomeText">
         <div className="title">Mimi Saunders</div>
-        <div className="subtitle">Mother, Photographer, Teacher</div>
+        <div className="subtitle">Website Coming Soon.</div>
       </div>
     );
   }
