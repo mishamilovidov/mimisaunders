@@ -39,5 +39,4 @@ deploy-prod:
   dependencies:
     - build
   script:
-    - npm install firebase-tools
     - ./node_modules/.bin/firebase deploy --token=$FIREBASE_TOKEN
