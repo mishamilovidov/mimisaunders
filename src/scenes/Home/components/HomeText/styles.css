@@ -1,0 +1,22 @@
+.HomeText {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #f2f2f2;
+}
+
+.HomeText .title {
+  font-size: 45px;
+}
+
+.HomeText .subtitle {
+  font-style: italic;
+}
+
+@media (max-width: 576px) {
+  .HomeText .title {
+    font-size: 40px;
+  }
+}
