@@ -1,7 +1,7 @@
 .Home {
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.9);
-  background: url(https://mimisaunders.files.wordpress.com/2018/08/img_8969.jpg?w=1440&h=600&crop=1) no-repeat center center fixed;
+  background: url(https://mimisaunders.files.wordpress.com/2018/08/img_8969.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
