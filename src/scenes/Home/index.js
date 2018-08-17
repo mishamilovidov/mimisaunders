@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
+import HomeText from './components/HomeText';
+import './styles.css';
 
 class Home extends Component {
   render() {
     return (
       <div className="Home">
-        <h1>Home</h1>
+        <div className="layer">
+          <HomeText />
+        </div>
       </div>
     );
   }
