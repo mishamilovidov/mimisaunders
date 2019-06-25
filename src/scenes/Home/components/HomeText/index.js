@@ -16,7 +16,7 @@ class HomeText extends Component {
       <ReactCSSTransitionGroup {...transitionOptions}>
         <div className="HomeText">
           <div className="title">Mimi Saunders</div>
-          <div className="subtitle">Website Coming Soon.</div>
+          <div className="subtitle">Website Coming Soon 👩‍💻</div>
         </div>
       </ReactCSSTransitionGroup>
     );
