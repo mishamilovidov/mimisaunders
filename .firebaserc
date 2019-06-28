@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "mimisaunders-mss"
+    "default": "osito-oto"
+  },
+  "targets": {
+    "osito-oto": {
+      "hosting": {
+        "mimisaunders": [
+          "mimisaunders"
+        ]
+      }
+    }
   }
 }

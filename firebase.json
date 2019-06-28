@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "mimisaunders",
     "public": "build",
     "ignore": [
       "firebase.json",
